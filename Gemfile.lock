@@ -54,7 +54,7 @@ GEM
     rake (11.2.2)
     rdoc (4.2.2)
       json (~> 1.4)
-    reek (4.2.3)
+    reek (4.2.4)
       codeclimate-engine-rb (~> 0.3.1)
       parser (~> 2.3.1, >= 2.3.1.2)
       rainbow (~> 2.0)
