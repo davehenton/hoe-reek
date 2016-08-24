@@ -5,6 +5,7 @@ code  :: http://github.com/saigkill/hoe-reek
 docu :: https://saigkill.github.io/docs/hoe-reek/index
 apidoc :: http://www.rubydoc.info/gems/hoe-reek
 bugs  :: https://saigkill.myjetbrains.com/youtrack/issues
+min. rubyver :: 2.2.0
 license :: {<img src="http://img.shields.io/:license-mit-blue.svg" />}[https://github.com/saigkill/hoe-reek/blob/master/LICENSE.rdoc]
 last public version  :: {<img src="https://badge.fury.io/rb/hoe-reek.png" alt="Last Version" />}[http://rubygems.org/gems/hoe-reek]
 downloads latest :: {<img src="https://img.shields.io/gem/dtv/hoe-reek.svg" alt="Downloads latest version" />}[http://rubygems.org/gems/hoe-reek]
