@@ -1,5 +1,6 @@
 # -*- ruby -*-
 # encoding: utf-8
+require 'fileutils'
 
 task :default do
   puts 'uasge rake [build] [publish]'
@@ -14,8 +15,10 @@ task :build do
 end
 
 task :publish do
-  system('cp -a * ~/RubymineProjects/saigkill.github.io/docs/hoe-reek')
+  system('cp -a * ~/RubymineProjects/saigkill.github.com/docs/hoe-reek')
+  FileUtils.cd('~/RubymineProjects/saigkill.github.com/docs/hoe-reek')
   system('git add *')
   system('git commit -m "Updated docs for hoe-reek"')
   system('git push')
+  FileUtils.cd('~/RubymineProjects/hoe-reek')
 end

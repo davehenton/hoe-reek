@@ -1,3 +1,6 @@
 pkg
 .idea
 ChangeLog
+tmp
+trans_drop
+hoe-reek.xpr

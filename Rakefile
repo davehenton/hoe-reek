@@ -48,7 +48,7 @@ Hoe.spec 'hoe-reek' do
   self.post_install_message = 'Please file bugreports and feature requests on: https://saigkill.myjetbrains.com/youtrack/issues'
 
   dependency 'bundler', '~> 1.11'
-  dependency 'reek', '~> 4.2'
+  dependency 'reek', '~> 4.4'
 
   extra_dev_deps << ['coveralls', '~> 0.8']
   extra_dev_deps << ['hoe-bundler', '~> 1.3']
