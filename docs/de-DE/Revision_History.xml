@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix [
+<!ENTITY % BOOK_ENTITIES SYSTEM "hoe-reek.ent">
+%BOOK_ENTITIES;
+<!ENTITY % sgml.features "IGNORE">
+<!ENTITY % xml.features "INCLUDE">
+<!ENTITY % DOCBOOK_ENTS PUBLIC "-//OASIS//ENTITIES DocBook Character Entities V4.5//EN" "/usr/share/xml/docbook/schema/dtd/4.5/dbcentx.mod">
+%DOCBOOK_ENTS;
+]>
+<appendix version="5.0" xml:id="appe-Documentation-hoe-reek-Versionsgeschichte" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Versionsgeschichte</title>
+	<revhistory>
+		<revision>
+			<revnumber>1.1.6-0</revnumber>
+			<date>Fri Sep 2 2016</date>
+			<author>
+				<personname><firstname>Sascha</firstname>
+				<surname>Manns</surname>
+				</personname><email>samannsml@directbox.com</email>
+			</author>
+			<revdescription>
+				<simplelist>
+					<member>Initial creation</member>
+				</simplelist>
+			</revdescription>
+		</revision>
+	</revhistory>
+</appendix>
+

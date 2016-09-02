@@ -2,7 +2,8 @@
 
 home  :: http://saigkill.github.io
 code  :: http://github.com/saigkill/hoe-reek
-docu :: https://saigkill.github.io/docs/hoe-reek/index
+docu (en) :: https://saigkill.github.io/docs/hoe-reek/tmp/en-US/html/index.html
+docu (de) :: https://saigkill.github.io/docs/hoe-reek/tmp/de-DE/html/index.html
 apidoc :: http://www.rubydoc.info/gems/hoe-reek
 bugs  :: https://saigkill.myjetbrains.com/youtrack/issues
 min. rubyver :: 2.2.0
@@ -48,13 +49,12 @@ Also add hoe-reek to your requirements and recreate your Gemfile.
 == REQUIREMENTS:
 
 * rake
+* reek
 * hoe
 
 == INSTALL:
 
     gem install hoe-reek
-    cd /path/to/gem (In case of using RVM anything like ~/.rvm/gems/ruby-2.2.1/gems/hoe-reek)
-    rake setup
 
 == RUN:
 
