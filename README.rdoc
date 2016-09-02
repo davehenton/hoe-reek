@@ -31,7 +31,7 @@ Tasks to integrate the reek code smell engine into your hoe projects. This proje
 This Gem was programmed and tested for Linux systems. If anyone would like to make the methods also fit for other OS,
 i'm happy about Pull requests.
 
-For a detailed information please visit: https://saigkill.github.io/docs/hoe-reek/index
+For a detailed information please visit: https://saigkill.github.io/docs/hoe-reek/tmp/en-US/html/index.html (en) or https://saigkill.github.io/docs/hoe-reek/tmp/de-DE/html/index.html (de).
 If you like this piece of software don't forget to give the gitlab repo a star.
 
 == SYNOPSIS:
