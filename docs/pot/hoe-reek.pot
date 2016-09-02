@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-09-02 09:43+0200\n"
+"PO-Revision-Date: 2016-09-02 09:43+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: de-DE \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "hoe-reek"
+msgstr ""
+
+msgid "Einführung"
+msgstr ""
+
+msgid "hoe-reek ist eine Erweiterung der Ruby-Projektsoftware hoe (siehe <link xlink:href=\"https://github.com/seattlerb/hoe\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"></link> ). Es erweitert die Standard Rake-Tasks der Software um einen weiteren."
+msgstr ""
+
+msgid "Die Benutzung erfordert eine installierte Ruby Version (Höher oder gleich 2.2.0), reek, sowie ein installiertes und eingerichtetes hoe."
+msgstr ""
+
+msgid "Installierung"
+msgstr ""
+
+msgid "Die Installation erfolgt in der Konsole via: <command>gem install hoe-reek</command>."
+msgstr ""
+
+msgid "Einbindung"
+msgstr ""
+
+msgid "Zum Einbinden von hoe-reek öffnen Sie das Rakefile Ihres Projektes und schreiben folgendes oberhalb der hoe spec Zeile:"
+msgstr ""
+
+msgid "<code>Hoe.plugin :reek </code>"
+msgstr ""
+
+msgid "<code>Hoe.spec 'yourproject' do ... </code>"
+msgstr ""
+
+msgid "<code>end</code>"
+msgstr ""
+
+msgid "Selbstverständlich tragen Sie hoe-reek auch als Abhängigkeit in Ihr Rakefile ein, und generieren ein neues Gemfile. Anschließend steht Ihnen hoe-reek zur Verfügung."
+msgstr ""
+
+msgid "Benutzung"
+msgstr ""
+
+msgid "hoe-reek integriert den zusätzlichen Rake-Task:"
+msgstr ""
+
+msgid "<command>rake reek</command>"
+msgstr ""
+
+msgid "<command>rake reek</command> startet reek mit den folgenden Parametern: <itemizedlist> <listitem>config_file: config.reek</listitem> <listitem>source_files = 'lib/**/*.rb'</listitem> <listitem>reek_opts = ''</listitem> <listitem>fail_on_error = false</listitem> <listitem>verbose = true</listitem> </itemizedlist> So erwartet Reek das Configfile \"config.reek\" im Haupt-Projektverzeichnis und untersucht alle Dateien unterhalb 'lib'. Es werden keine weiteren Optionen übergeben und Reek bricht bei einem gefundenen Fehler nicht gleich ab. Zusätzlich wurde die Option \"Verbose\" gewählt, um weiteren Output zu erhalten."
+msgstr ""
+
+msgid "Die Spezifikation des \"config.reek\" Files entnehmen Sie hier: <link xlink:href=\"https://github.com/troessner/reek#configuration-file\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">https://github.com/troessner/reek#configuration-file</link>"
+msgstr ""
+
+msgid "Weitere Informationen"
+msgstr ""
+
+msgid "Die API-Dokumentation von hoe-reek liegt hier: <link xlink:href=\"http://www.rubydoc.info/gems/hoe-reek\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">http://www.rubydoc.info/gems/hoe-reek</link>."
+msgstr ""
+
+msgid "Bugreports und Feature Requests können gerne hier eingereicht werden: <link xlink:href=\"https://saigkill.myjetbrains.com/youtrack/issues\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">https://saigkill.myjetbrains.com/youtrack/issues</link>."
+msgstr ""
+
+msgid "Diese Software wurde auf einem Linux-System mit RVM als Rubymanager entworfen und getestet. Sollte jemand eine Idee haben, wie man die Software auch unter anderen Betriebssystemen oder Rubymanagern lauffähig macht, kann er gerne einen Pull-Request im Github Projekt einreichen."
+msgstr ""
+
