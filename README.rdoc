@@ -1,11 +1,11 @@
 = hoe-reek
 
-home  :: http://saigkill.github.io
+home  :: http://saigkill.tuxfamily.org
 code  :: http://github.com/saigkill/hoe-reek
-docu (en) :: https://saigkill.github.io/docs/hoe-reek/tmp/en-US/html/index.html
-docu (de) :: https://saigkill.github.io/docs/hoe-reek/tmp/de-DE/html/index.html
+docu (en) :: https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/en-US/html/
+docu (de) :: https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/de-DE/html/
 apidoc :: http://www.rubydoc.info/gems/hoe-reek
-bugs  :: https://saigkill.myjetbrains.com/youtrack/issues
+bugs  :: https://github.com/saigkill/hoe-reek/issues
 min. rubyver :: 2.2.0
 license :: {<img src="http://img.shields.io/:license-mit-blue.svg" />}[https://github.com/saigkill/hoe-reek/blob/master/LICENSE.rdoc]
 last public version  :: {<img src="https://badge.fury.io/rb/hoe-reek.png" alt="Last Version" />}[http://rubygems.org/gems/hoe-reek]
@@ -18,7 +18,7 @@ security :: {<img src="https://hakiri.io/github/saigkill/hoe-reek/master.svg" al
 dependency check :: {<img src="https://gemnasium.com/saigkill/hoe-reek.svg" alt="Dependency Status" />}[https://gemnasium.com/saigkill/hoe-reek]
 documentation quality :: {<img src="http://inch-ci.org/github/saigkill/hoe-reek.svg?branch=master" alt="Documentation Quality" />}[http://inch-ci.org/github/saigkill/hoe-reek]
 donations :: {<img src="https://pledgie.com/campaigns/30306.png?skin_name=chrome" alt="Donations" />}[https://pledgie.com/campaigns/30306]
-donations :: {<img src="http://tsv-neuss.de/cms/upload/News-Bilder/amazon1.png" alt="Donations" />}[http://www.amazon.de/registry/wishlist/D75HOEQ00BDD]
+donations :: {<img src="https://saigkill.tuxfamily.org/dotclear/public/Amazon.png" alt="Donations" />}[http://www.amazon.de/registry/wishlist/D75HOEQ00BDD]
 
 == DESCRIPTION:
 
@@ -31,7 +31,7 @@ Tasks to integrate the reek code smell engine into your hoe projects. This proje
 This Gem was programmed and tested for Linux systems. If anyone would like to make the methods also fit for other OS,
 i'm happy about Pull requests.
 
-For a detailed information please visit: https://saigkill.github.io/docs/hoe-reek/tmp/en-US/html/index.html (en) or https://saigkill.github.io/docs/hoe-reek/tmp/de-DE/html/index.html (de).
+For a detailed information please visit: https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/en-US/html/ (en) or https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/de-DE/html/ (de).
 If you like this piece of software don't forget to give the gitlab repo a star.
 
 == SYNOPSIS:
@@ -75,7 +75,7 @@ Read https://github.com/saigkill/hoe-reek/blob/master/CONTRIBUTING.md
 
 (The MIT License)
 
-Copyright (c) 2015-2016 Sascha Manns <samannsml@directbox.com>
+Copyright (c) 2015-2017 Sascha Manns <Sascha.Manns@mailbox.org>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
