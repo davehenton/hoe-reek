@@ -3,7 +3,7 @@
 # @author: Sascha Manns
 # @abstract: hoe-reek is a small reek integration into hoe
 #
-# Copyright (c) 2015-2016 Sascha Manns <samannsml@directbox.com>
+# Copyright (c) 2015-2017 Sascha Manns <Sascha.Manns@mailbox.org>
 # License: MIT
 
 # Dependencies
@@ -11,7 +11,7 @@
 # Main module for hoe-reek
 module Hoe::Reek
   # Versionizing the gem
-  VERSION = '1.1.6'
+  VERSION = '1.1.7'
 
   #attr_accessor :reek
 

@@ -15,7 +15,7 @@ Hoe.plugin :doofus
 Hoe.plugin :email
 # Hoe.plugin :gem_prelude_sucks
 #Hoe.plugins.delete :git
-Hoe.plugin :git
+#Hoe.plugin :git
 Hoe.plugin :history
 Hoe.plugin :highline
 #Hoe.plugin :inline
