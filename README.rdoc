@@ -1,9 +1,9 @@
 = hoe-reek
 
-home  :: http://saigkill.tuxfamily.org
+home  :: http://saigkill.github.io
 code  :: http://github.com/saigkill/hoe-reek
-docu (en) :: https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/en-US/html/
-docu (de) :: https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/de-DE/html/
+docu (en) :: https://saigkill.tuxfamily.org/docs/hoe-reek/en-US/html/
+docu (de) :: https://saigkill.tuxfamily.org/docs/hoe-reek/de-DE/html/
 apidoc :: http://www.rubydoc.info/gems/hoe-reek
 bugs  :: https://github.com/saigkill/hoe-reek/issues
 min. rubyver :: 2.2.0
@@ -31,7 +31,7 @@ Tasks to integrate the reek code smell engine into your hoe projects. This proje
 This Gem was programmed and tested for Linux systems. If anyone would like to make the methods also fit for other OS,
 i'm happy about Pull requests.
 
-For a detailed information please visit: https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/en-US/html/ (en) or https://saigkill.tuxfamily.org/dotclear/docs/hoe-reek/tmp/de-DE/html/ (de).
+For a detailed information please visit: https://saigkill.tuxfamily.org/docs/hoe-reek/en-US/html/ (en) or https://saigkill.tuxfamily.org/docs/hoe-reek/de-DE/html/ (de).
 If you like this piece of software don't forget to give the gitlab repo a star.
 
 == SYNOPSIS:
