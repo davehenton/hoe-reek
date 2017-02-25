@@ -13,21 +13,13 @@ require 'hoe'
 Hoe.plugin :bundler
 Hoe.plugin :doofus
 Hoe.plugin :email
-# Hoe.plugin :gem_prelude_sucks
 #Hoe.plugins.delete :git
-#Hoe.plugin :git
+Hoe.plugin :git
 Hoe.plugin :history
 Hoe.plugin :highline
-#Hoe.plugin :inline
 Hoe.plugin :manns
-#Hoe.plugin :mercurial
-#Hoe.plugin :perforce
-# Hoe.plugin :racc
-#Hoe.plugin :rcov
 Hoe.plugin :reek
 Hoe.plugin :rdoc
-# Hoe.plugin :rubygems
-#Hoe.plugin :seattlerb
 Hoe.plugin :version
 Hoe.plugin :website
 
