@@ -1,4 +1,3 @@
-# encoding: UTF-8
 # @encoding: utf-8
 # @author: Sascha Manns
 # @abstract: hoe-reek is a small reek integration into hoe
@@ -11,7 +10,7 @@
 # Main module for hoe-reek
 module Hoe::Reek
   # Versionizing the gem
-  VERSION = '1.1.7'
+  VERSION = '1.1.8'
 
   #attr_accessor :reek
 
