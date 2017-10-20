@@ -1,3 +1,10 @@
+=== 1.2.0 / 2017-10-20
+
+*  minor enhancements
+
+  * updated dependencies
+  * updated docs
+
 === 1.1.8 / 2017-02-25
 
 * 1 minor enhancement

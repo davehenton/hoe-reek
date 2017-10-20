@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title xmlns:d="http://docbook.org/ns/docbook">4. Benutzung</title><link rel="stylesheet" type="text/css" href="Common_Content/css/default.css" /><link rel="stylesheet" media="print" href="Common_Content/css/print.css" type="text/css" /><meta xmlns:d="http://docbook.org/ns/docbook" name="generator" content="publican v4.3.2" /><meta xmlns:d="http://docbook.org/ns/docbook" name="package" content="hoe-reek-hoe-reek-1.2.0-de-DE-1.2.0-0" /><link rel="home" href="index.html" title="hoe-reek" /><link rel="up" href="index.html" title="hoe-reek" /><link rel="prev" href="ar01s03.html" title="3. Einrichtung" /><link rel="next" href="ar01s05.html" title="5. Zusätzliche Informationen" /></head><body><div class="navheader"><table width="100%" summary="Navigation header"><tr><th colspan="3" align="center">4. Benutzung</th></tr><tr><td width="20%" align="left"><a accesskey="p" href="ar01s03.html">Zurück</a> </td><th width="60%" align="center"> </th><td width="20%" align="right"> <a accesskey="n" href="ar01s05.html">Weiter</a></td></tr></table></div><div class="section"><div class="titlepage"><div><div><h2 class="title"><a id="idp9">
+      ⁠</a>4. Benutzung</h2></div></div></div>
+		
+		 <a id="idp10" class="indexterm"></a>
+		 <div class="para">
+			<span class="productname">hoe-reek</span> integriert einen neuen <span class="application"><strong>Rake</strong></span>-Task:
+			<div xmlns:d="http://docbook.org/ns/docbook" class="itemizedlist"><ul><li class="listitem">
+					<div class="para">
+						<code class="command">rake reek</code>
+					</div>
+
+				</li></ul></div>
+
+		</div>
+		 <div class="para">
+			<code class="command">rake reek</code> startet Reek mit den folgenden Parametern: 
+			<div xmlns:d="http://docbook.org/ns/docbook" class="itemizedlist"><ul><li class="listitem">
+					config_file: config.reek
+				</li><li class="listitem">
+					source_files = 'lib/**/*.rb'
+				</li><li class="listitem">
+					reek_opts = ''
+				</li><li class="listitem">
+					fail_on_error = false
+				</li><li class="listitem">
+					verbose = true
+				</li></ul></div>
+			. Ausserdem erwartet <span class="application"><strong>reek</strong></span> eine Konfigurationsdatei <code class="filename">config.reek</code>"im Hauptverzeichnis des Projektes und überprüft alle <span class="application"><strong>Ruby</strong></span> Dateien in 'lib'. Keine weiteren Optionen werden an <span class="application"><strong>reek</strong></span> übergeben. Reek bricht bei einem Fehler nicht ab, und gibt eine vollständige Ausgabe.
+		</div>
+		 <div class="para">
+			Die Spezifikation der <code class="filename">config.reek</code>-Datei kann hier gefunden werden: <a href="https://github.com/troessner/reek#configuration-file">https://github.com/troessner/reek#configuration-file</a>
+		</div>
+
+	</div><div class="navfooter"><table width="100%" summary="Navigation footer"><tr><td width="40%" align="left"><a accesskey="p" href="ar01s03.html">Zurück</a> </td><td width="20%" align="center"> </td><td width="40%" align="right"> <a accesskey="n" href="ar01s05.html">Weiter</a></td></tr><tr><td width="40%" align="left" valign="top">3. Einrichtung </td><td width="20%" align="center"><a accesskey="h" href="index.html">Zum Anfang</a></td><td width="40%" align="right" valign="top"> 5. Zusätzliche Informationen</td></tr></table></div></body></html>

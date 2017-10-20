@@ -14,7 +14,7 @@ Hoe.plugin :bundler
 Hoe.plugin :doofus
 Hoe.plugin :email
 #Hoe.plugins.delete :git
-Hoe.plugin :git
+#Hoe.plugin :git
 Hoe.plugin :history
 Hoe.plugin :highline
 Hoe.plugin :manns

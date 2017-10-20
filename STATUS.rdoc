@@ -1,0 +1,23 @@
+= Misc status badges
+
+== Gem
+last public version  :: {<img src="https://badge.fury.io/rb/hoe-reek.png" alt="Last Version" />}[http://rubygems.org/gems/hoe-reek]
+downloads latest :: {<img src="https://img.shields.io/gem/dtv/hoe-reek.svg" alt="Downloads latest version" />}[http://rubygems.org/gems/hoe-reek]
+downloads all :: {<img src="https://img.shields.io/gem/dt/hoe-reek.svg" alt="Downloads all versions" />}[http://rubygems.org/gems/hoe-reek]
+
+== Code Review
+code quality :: {<img src="https://scrutinizer-ci.com/g/saigkill/hoe-reek/badges/quality-score.png?b=master" />}[https://scrutinizer-ci.com/g/saigkill/hoe-reek/]
+code quality :: {<img src="https://d3s6mut3hikguw.cloudfront.net/github/saigkill/hoe-reek/badges/gpa.svg" alt="Code Quality" />}[https://codeclimate.com/github/saigkill/hoe-reek]
+
+== Security
+security :: {<img src="https://hakiri.io/github/saigkill/hoe-reek/master.svg" alt="security" />}[https://hakiri.io/github/saigkill/hoe-reek/master]
+
+== Dependencies
+dependency check :: {<img src="https://gemnasium.com/saigkill/hoe-reek.svg" alt="Dependency Status" />}[https://gemnasium.com/saigkill/hoe-reek]
+
+== Documentation
+documentation quality :: {<img src="http://inch-ci.org/github/saigkill/hoe-reek.svg?branch=master" alt="Documentation Quality" />}[http://inch-ci.org/github/saigkill/hoe-reek]
+
+== Donations
+donations :: {<img src="https://pledgie.com/campaigns/30306.png?skin_name=chrome" alt="Donations" />}[https://pledgie.com/campaigns/30306]
+donations :: {<img src="https://saigkill.tuxfamily.org/dotclear/public/Amazon.png" alt="Donations" />}[http://www.amazon.de/registry/wishlist/D75HOEQ00BDD]
