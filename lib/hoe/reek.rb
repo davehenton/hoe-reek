@@ -10,7 +10,7 @@
 # Main module for hoe-reek
 module Hoe::Reek
   # Versionizing the gem
-  VERSION = '1.1.8'
+  VERSION = '1.2.1'.freeze
 
   #attr_accessor :reek
 

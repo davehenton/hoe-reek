@@ -1,6 +1,12 @@
+=== 1.2.1 / 2017-11-02
+
+* 1 patch enhancement
+
+  * HR-9: Moved documentation from publican to daps
+
 === 1.2.0 / 2017-10-20
 
-*  minor enhancements
+* 2 minor enhancements
 
   * updated dependencies
   * updated docs
