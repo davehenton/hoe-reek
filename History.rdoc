@@ -2,7 +2,7 @@
 
 * 1 patch enhancement
 
-  * HR-9: Moved documentation from publican to daps
+  * Moved documentation from publican to daps
 
 === 1.2.0 / 2017-10-20
 

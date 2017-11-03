@@ -1,0 +1,63 @@
+===============================================================================
+hoe-reek 1.2.1 - 2017-11-03
+===============================================================================
+
+    hoe-reek 1.2.1 is the culmination of one days' work by 1 developer.
+
+    New Features:
+
+      * Nothing yet
+
+
+    Enhancements:
+
+      * Nothing yet
+
+
+    Notable Bugs Fixed:
+
+      * Changed documentation from publican to daps
+
+
+===============================================================================
+SOURCES / PACKAGES
+===============================================================================
+
+Sources
+-------
+
+    * hoe-reek 1.2.1 Tarballs:
+      https://launchpad.net/hoe-reek/1.x/1.2.1/+download/hoe-reek-1.2.1.tar.xz
+
+Packages
+--------
+
+    Download and installation information is available here:
+
+    * https://saigkill.github.io/hoe-reek/about/
+
+    Gems:
+
+    * https://rubygems.org/gems/hoe-reek
+
+===============================================================================
+REPORT BUGS - HELP THE PROJECT - GROW THE COMMUNITY
+===============================================================================
+
+    If you encounter any bad behavior with this release, please do not
+    hesitate to file bugs!
+
+    * https://bugs.launchpad.net/hoe-reek
+
+
+===============================================================================
+VALUED HOE-REEK CONTRIBUTORS
+===============================================================================
+
+Contributors For This Release
+-----------------------------
+
+    The following people directly contributed to the release of this version
+    of hoe-reek. Without their help, there would be no release!
+
+     Sascha Manns

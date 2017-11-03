@@ -4,7 +4,7 @@
 
 source "https://rubygems.org/"
 
-gem "bundler", "~>1.15"
+gem "bundler", "~>1.16"
 gem "reek", "~>4.7"
 
 gem "coveralls", "~>0.8", :group => [:development, :test]

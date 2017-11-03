@@ -31,7 +31,7 @@ Hoe.spec 'hoe-reek' do
   self.extra_rdoc_files = FileList['*.rdoc'].to_a
   self.post_install_message = 'Please file bugreports and feature requests on: https://bugs.launchpad.net/hoe-reek'
 
-  dependency 'bundler', '~> 1.15'
+  dependency 'bundler', '~> 1.16'
   dependency 'reek', '~> 4.7'
 
   extra_dev_deps << ['coveralls', '~> 0.8']
