@@ -1,9 +1,5 @@
 # Save as .codeclimate.yml (note leading .) in project root directory
-languages:
-  Ruby: true
-  #JavaScript: true
-  #PHP: true
-  #Python: true
-  exclude_paths:
-  - docs/*
-  - pkg/*
+version: "2"
+exclude_patterns:
+  - "**/docs/"
+  - "**/pkg"
